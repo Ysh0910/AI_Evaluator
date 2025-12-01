@@ -21,7 +21,7 @@ Before running this project, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Ysh0910/AI_Evaluator
 cd Evaluator
 ```
 
