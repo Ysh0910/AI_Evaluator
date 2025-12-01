@@ -87,7 +87,7 @@ The system will process the files and output grading results.
 
 The `Config` class in `exam_grading_system.py` allows you to customize:
 
-- **MODEL_NAME**: Choose between `gemini-2.0-flash-lite` or `gemini-1.5-pro`
+- **MODEL_NAME**: You can choose any gemini Text-Out models. Use higher models for more accuracy. I have used `gemini-2.0-flash-lite`. 
 - **DATASET_PATH**: Directory containing your exam files
 - **Retry Configuration**: Adjust API retry settings if needed
 

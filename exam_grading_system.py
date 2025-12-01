@@ -22,7 +22,7 @@ class Config:
     TEXTBOOK = 'textbook_notes.pdf'
     
     # Model configuration
-    MODEL_NAME = 'gemini-2.0-flash-lite'  # or 'gemini-1.5-pro' for more accuracy
+    MODEL_NAME = 'gemini-2.0-flash-lite' 
     
     # App configuration
     APP_NAME = 'exam_grading_system'
